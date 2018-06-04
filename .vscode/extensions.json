@@ -3,6 +3,8 @@
 		"Angular.ng-template",
 		"Dart-Code.dart-code",
 		"EditorConfig.EditorConfig",
+		"eg2.tslint",
+		"eg2.vscode-npm-script",
 		"ms-kubernetes-tools.vscode-kubernetes-tools",
 		"ms-python.python",
 		"ms-vscode.Go",
